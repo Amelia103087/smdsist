@@ -1,0 +1,98 @@
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\P.V.WantHelp-.dll
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\P.V.WantHelp-.pdb
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\Antlr3.Runtime.dll
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\DotNetOpenAuth.AspNet.dll
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\DotNetOpenAuth.Core.dll
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\DotNetOpenAuth.OAuth.dll
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\DotNetOpenAuth.OpenId.dll
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\EntityFramework.dll
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\Microsoft.Web.Infrastructure.dll
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\Newtonsoft.Json.dll
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\System.Net.Http.Formatting.dll
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.Helpers.dll
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.Http.dll
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.Http.WebHost.dll
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.Mvc.dll
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.Optimization.dll
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.Razor.dll
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.WebPages.Deployment.dll
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.WebPages.dll
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.WebPages.Razor.dll
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\WebGrease.dll
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\WebMatrix.Data.dll
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\WebMatrix.WebData.dll
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\EntityFramework.xml
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\Newtonsoft.Json.xml
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\System.Net.Http.Formatting.xml
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.Helpers.xml
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.Http.xml
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.Http.WebHost.xml
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.Mvc.xml
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.Razor.xml
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.WebPages.xml
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.WebPages.Deployment.xml
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.WebPages.Razor.xml
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\WebMatrix.Data.xml
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\WebMatrix.WebData.xml
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\DotNetOpenAuth.AspNet.xml
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\DotNetOpenAuth.Core.xml
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\DotNetOpenAuth.OAuth.xml
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\DotNetOpenAuth.OpenId.xml
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\obj\Debug\P.V.WantHelp-.csprojResolveAssemblyReference.cache
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\obj\Debug\P.V.WantHelp-.dll
+c:\users\alfredo\documents\visual studio 2012\Projects\P.V.WantHelp-\P.V.WantHelp-\obj\Debug\P.V.WantHelp-.pdb
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\P.V.WantHelp-.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\P.V.WantHelp-.pdb
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\Antlr3.Runtime.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\DotNetOpenAuth.AspNet.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\DotNetOpenAuth.Core.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\DotNetOpenAuth.OAuth.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\DotNetOpenAuth.OpenId.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\EntityFramework.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\Microsoft.Web.Infrastructure.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\Newtonsoft.Json.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\System.Net.Http.Formatting.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.Helpers.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.Http.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.Http.WebHost.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.Mvc.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.Optimization.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.Razor.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.WebPages.Deployment.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.WebPages.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.WebPages.Razor.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\WebGrease.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\WebMatrix.Data.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\WebMatrix.WebData.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\EntityFramework.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\Newtonsoft.Json.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\System.Net.Http.Formatting.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.Helpers.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.Http.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.Http.WebHost.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.Mvc.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.Razor.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.WebPages.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.WebPages.Deployment.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\System.Web.WebPages.Razor.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\WebMatrix.Data.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\WebMatrix.WebData.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\DotNetOpenAuth.AspNet.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\DotNetOpenAuth.Core.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\DotNetOpenAuth.OAuth.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\DotNetOpenAuth.OpenId.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\obj\Debug\P.V.WantHelp-.csprojResolveAssemblyReference.cache
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\obj\Debug\P.V.WantHelp-.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-\obj\Debug\P.V.WantHelp-.pdb
